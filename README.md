@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with experience in p
 - Data Cleaning | Visualization | Analysis
 
 - ## 👩‍💻 Projects
-- **[Hospital Data Management] (https://github.com/KirtiShevade/Data-Analysis-Projects/blob/main/Hospital%20Management%20SQL%20project.sql) : Data Management using SQL.
+- **[Hospital Data Management](https://github.com/KirtiShevade/Data-Analysis-Projects/blob/main/Hospital%20Management%20SQL%20project.sql) : Data Management using SQL.
 - 
 
 
