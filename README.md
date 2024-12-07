@@ -16,6 +16,6 @@ Welcome to my GitHub profile! I'm a passionate data analyst with experience in p
 
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/kirti-shevade-023989208/)
-- Email -   shevade.kirti19@gmail.com
+- LinkedIn : [Kirti Shevade](https://www.linkedin.com/in/kirti-shevade-023989208/)
+- Email :  shevade.kirti19@gmail.com
 
